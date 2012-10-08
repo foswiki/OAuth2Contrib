@@ -1,0 +1,6 @@
+# Release manifest for OAuth2Contrib
+data/System/OAuth2Contrib.txt 0644 Documentation
+lib/Foswiki/Contrib/OAuth2Contrib.pm 0644 Perl module
+lib/Foswiki/LoginManager/OAuth2Login.pm
+templates/login.oauth2.tmpl
+
